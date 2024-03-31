@@ -1,4 +1,4 @@
-import CocktailCard from "./CocktailCard";
+import CocktailCard from "./CockTailCard";
 import Wrapper from "../assets/wrappers/CocktailList";
 
 const CocktailList = ({ drinks }) => {
